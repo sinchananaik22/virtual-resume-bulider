@@ -1,0 +1,85 @@
+/* src/App.css */
+
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+.intro-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.intro-content {
+  text-align: center;
+}
+
+.get-started-button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  background-color: #4caf50; /* Green button background color */
+  color: #fff; /* White button text color */
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background-color 0.3s;
+}
+
+.get-started-button:hover {
+  background-color: #45a049; /* Darker green on hover */
+}
+
+.create-cv-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+label {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 8px;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+  margin-bottom: 12px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  background-color: #4caf50; /* Green button background color */
+  color: #fff; /* White button text color */
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #45a049; /* Darker green on hover */
+}
+
+
+.intro-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.intro-content {
+  text-align: center;
+}

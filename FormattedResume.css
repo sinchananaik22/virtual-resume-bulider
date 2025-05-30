@@ -1,0 +1,25 @@
+/* src/components/FormattedResume.css */
+
+.formatted-resume {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .formatted-resume h2 {
+    color: #333;
+    border-bottom: 2px solid #4caf50; /* Green color for the heading underline */
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .formatted-resume p {
+    margin: 10px 0;
+    color: #555; /* Dark gray color for paragraph text */
+  }
+  
+  /* Customize the styling further based on your preferences */
+  
